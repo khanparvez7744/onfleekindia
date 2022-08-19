@@ -1,0 +1,211 @@
+[23-Aug-2021 12:31:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'onfleek'@'localhost' (using password: YES) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php:7
+Stack trace:
+#0 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php(7): PDO->__construct('mysql:host=loca...', 'onfleek', 'onfleek')
+#1 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php(1): require_once('/home/tojaoh6ml...')
+#2 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php(1): require_once('/home/tojaoh6ml...')
+#3 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php on line 7
+[23-Aug-2021 12:38:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'onfleek'@'localhost' (using password: YES) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php:7
+Stack trace:
+#0 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php(7): PDO->__construct('mysql:host=loca...', 'onfleek', 'onfleek')
+#1 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php(1): require_once('/home/tojaoh6ml...')
+#2 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php(1): require_once('/home/tojaoh6ml...')
+#3 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php on line 7
+[23-Aug-2021 12:38:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'onfleek'@'localhost' (using password: YES) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php:7
+Stack trace:
+#0 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php(7): PDO->__construct('mysql:host=loca...', 'onfleek', 'onfleek')
+#1 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php(1): require_once('/home/tojaoh6ml...')
+#2 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php(1): require_once('/home/tojaoh6ml...')
+#3 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php on line 7
+[23-Aug-2021 14:10:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'onfleek'@'localhost' (using password: YES) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php:7
+Stack trace:
+#0 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php(7): PDO->__construct('mysql:host=loca...', 'onfleek', 'onfleek')
+#1 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php(1): require_once('/home/tojaoh6ml...')
+#2 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php(1): require_once('/home/tojaoh6ml...')
+#3 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php on line 7
+[23-Aug-2021 15:07:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'onfleek'@'localhost' (using password: YES) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php:7
+Stack trace:
+#0 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php(7): PDO->__construct('mysql:host=loca...', 'onfleek', 'onfleek')
+#1 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php(1): require_once('/home/tojaoh6ml...')
+#2 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php(1): require_once('/home/tojaoh6ml...')
+#3 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php on line 7
+[24-Aug-2021 06:45:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'onfleek'@'localhost' (using password: YES) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php:7
+Stack trace:
+#0 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php(7): PDO->__construct('mysql:host=loca...', 'onfleek', 'onfleek')
+#1 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php(1): require_once('/home/tojaoh6ml...')
+#2 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php(1): require_once('/home/tojaoh6ml...')
+#3 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php on line 7
+[24-Aug-2021 06:45:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'onfleek'@'localhost' (using password: YES) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php:7
+Stack trace:
+#0 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php(7): PDO->__construct('mysql:host=loca...', 'onfleek', 'onfleek')
+#1 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php(1): require_once('/home/tojaoh6ml...')
+#2 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php(1): require_once('/home/tojaoh6ml...')
+#3 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/conn.php on line 7
+[24-Aug-2021 06:49:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:4
+Stack trace:
+#0 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php(1): require_once()
+#1 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php on line 4
+[24-Aug-2021 06:52:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:4
+Stack trace:
+#0 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php(1): require_once()
+#1 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php on line 4
+[24-Aug-2021 06:53:23 UTC] PHP Notice:  Undefined variable: globcall in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php on line 39
+[24-Aug-2021 06:53:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on bool in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:51
+Stack trace:
+#0 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php(1): require_once()
+#1 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php on line 51
+[24-Aug-2021 06:53:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:4
+Stack trace:
+#0 /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php(1): require_once()
+#1 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php on line 4
+[26-Aug-2021 08:17:34 UTC] PHP Notice:  Undefined index: password in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 12
+[26-Aug-2021 08:19:05 UTC] PHP Notice:  Undefined index: password in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 12
+[26-Aug-2021 08:30:58 UTC] PHP Notice:  Undefined index: password in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 12
+[26-Aug-2021 08:31:29 UTC] PHP Notice:  Undefined index: password in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 12
+[26-Aug-2021 08:33:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[26-Aug-2021 08:37:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[26-Aug-2021 08:37:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[26-Aug-2021 08:38:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 06:10:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 06:14:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[27-Aug-2021 06:14:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 06:14:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 06:14:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 06:17:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/index.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[27-Aug-2021 06:40:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:69) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[27-Aug-2021 06:40:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[27-Aug-2021 06:40:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 06:41:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:69) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 06:41:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:69) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[27-Aug-2021 06:44:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[27-Aug-2021 06:44:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 06:44:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:69) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 06:56:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 06:56:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[27-Aug-2021 06:57:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[27-Aug-2021 06:59:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 06:59:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 06:59:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[27-Aug-2021 06:59:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[27-Aug-2021 06:59:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 07:00:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/services.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 08:33:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/blog.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 08:33:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:70) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[27-Aug-2021 08:33:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:70) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[27-Aug-2021 08:33:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/blog.php:2) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[31-Aug-2021 11:44:21 UTC] PHP Notice:  Undefined index: password1 in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 6
+[31-Aug-2021 11:45:46 UTC] PHP Notice:  Undefined index: password1 in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 6
+[01-Sep-2021 09:53:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:88) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[01-Sep-2021 09:54:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:63) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[01-Sep-2021 09:54:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:88) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 20
+[01-Sep-2021 09:54:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php:63) in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 28
+[01-Sep-2021 10:28:35 UTC] PHP Notice:  Array to string conversion in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/header.php on line 71
+[06-Sep-2021 17:22:25 UTC] PHP Notice:  Undefined index: password1 in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/popup.php on line 6
+[17-Sep-2021 07:14:00 UTC] PHP Notice:  Undefined index: gift in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/contact.php on line 9
+[22-Sep-2021 09:52:18 UTC] PHP Notice:  Undefined index: cv in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 7
+[22-Sep-2021 09:52:18 UTC] PHP Notice:  Undefined index: cv in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 9
+[22-Sep-2021 09:57:57 UTC] PHP Notice:  Undefined index: cv in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 10
+[22-Sep-2021 09:57:57 UTC] PHP Notice:  Undefined index: cv in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 12
+[22-Sep-2021 10:00:49 UTC] PHP Notice:  Undefined index: cv in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 8
+[22-Sep-2021 10:00:49 UTC] PHP Notice:  Undefined index: cv in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 10
+[22-Sep-2021 10:05:07 UTC] PHP Notice:  Undefined index: resume in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 8
+[22-Sep-2021 10:05:07 UTC] PHP Notice:  Undefined index: resume in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 10
+[22-Sep-2021 10:06:00 UTC] PHP Notice:  Undefined index: resume in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 8
+[22-Sep-2021 10:06:00 UTC] PHP Notice:  Undefined index: resume in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 11
+[22-Sep-2021 10:09:05 UTC] PHP Notice:  Undefined index: resume in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 8
+[22-Sep-2021 10:09:05 UTC] PHP Notice:  Undefined index: resume in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 10
+[22-Sep-2021 10:35:24 UTC] PHP Notice:  Undefined index: resume in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 8
+[22-Sep-2021 10:35:24 UTC] PHP Notice:  Undefined index: resume in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 10
+[22-Sep-2021 10:37:40 UTC] PHP Notice:  Undefined index: banner in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 8
+[22-Sep-2021 10:37:40 UTC] PHP Notice:  Undefined index: banner in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 11
+[22-Sep-2021 10:37:40 UTC] PHP Notice:  Undefined variable: resume in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 12
+[22-Sep-2021 10:39:23 UTC] PHP Notice:  Undefined index: banner in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 7
+[22-Sep-2021 10:39:23 UTC] PHP Notice:  Undefined index: banner in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 10
+[22-Sep-2021 10:47:47 UTC] PHP Notice:  Undefined index: resume in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 7
+[22-Sep-2021 10:47:47 UTC] PHP Notice:  Undefined variable: banner in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 8
+[22-Sep-2021 10:47:47 UTC] PHP Notice:  Undefined index: resums in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 9
+[22-Sep-2021 10:48:59 UTC] PHP Notice:  Undefined variable: banner in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 8
+[22-Sep-2021 10:48:59 UTC] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 9
+[22-Sep-2021 10:48:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPJSNVU' to './resums/' in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 9
+[22-Sep-2021 11:21:01 UTC] PHP Warning:  file_get_contents(./resumsOnFleek Privacy Policy.docx): failed to open stream: No such file or directory in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 25
+[22-Sep-2021 11:24:03 UTC] PHP Warning:  file_get_contents(./resumsOnFleek T&amp;C.docx): failed to open stream: No such file or directory in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 25
+[22-Sep-2021 11:52:13 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/sendmail.php on line 9
+[22-Sep-2021 11:52:13 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/sendmail.php on line 9
+[22-Sep-2021 11:52:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/sendmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/sendmail.php on line 12
+[22-Sep-2021 11:54:04 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer' not found in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/sendmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/sendmail.php on line 12
+[22-Sep-2021 11:55:47 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailer' has no effect in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/sendmail.php on line 4
+[22-Sep-2021 11:55:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/sendmail.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/sendmail.php on line 15
+[22-Sep-2021 11:57:29 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailer' has no effect in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/sendmail.php on line 4
+[22-Sep-2021 11:57:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/sendmail.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/sendmail.php on line 15
+[22-Sep-2021 12:23:09 UTC] PHP Notice:  Undefined variable: mime_boundary in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 19
+[22-Sep-2021 12:23:09 UTC] PHP Notice:  Undefined variable: message in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 38
+[22-Sep-2021 12:23:09 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/tojaoh6ml845/public_html/sociapainfluencer.com/onfleek/career.php on line 51
+[06-Oct-2021 16:24:10 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home1/onfleeki/public_html/conn.php:7
+Stack trace:
+#0 /home1/onfleeki/public_html/conn.php(7): PDO->__construct('mysql:host=loca...', 'onfleeki_10', 'onfleek10')
+#1 /home1/onfleeki/public_html/header.php(1): require_once('/home1/onfleeki...')
+#2 /home1/onfleeki/public_html/index.php(1): require_once('/home1/onfleeki...')
+#3 {main}
+  thrown in /home1/onfleeki/public_html/conn.php on line 7
+[07-Oct-2021 05:48:48 America/Boise] PHP Warning:  include(defines.php): failed to open stream: No such file or directory in /home1/onfleeki/public_html/obtaining_access_token.php on line 2
+[07-Oct-2021 05:48:48 America/Boise] PHP Warning:  include(defines.php): failed to open stream: No such file or directory in /home1/onfleeki/public_html/obtaining_access_token.php on line 2
+[07-Oct-2021 05:48:48 America/Boise] PHP Warning:  include(): Failed opening 'defines.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/onfleeki/public_html/obtaining_access_token.php on line 2
+[07-Oct-2021 05:48:48 America/Boise] PHP Warning:  require_once(/home1/onfleeki/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home1/onfleeki/public_html/obtaining_access_token.php on line 5
+[07-Oct-2021 05:48:48 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/onfleeki/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/onfleeki/public_html/obtaining_access_token.php on line 5
+[07-Oct-2021 05:48:57 America/Boise] PHP Warning:  include(defines.php): failed to open stream: No such file or directory in /home1/onfleeki/public_html/obtaining_access_token.php on line 2
+[07-Oct-2021 05:48:57 America/Boise] PHP Warning:  include(defines.php): failed to open stream: No such file or directory in /home1/onfleeki/public_html/obtaining_access_token.php on line 2
+[07-Oct-2021 05:48:57 America/Boise] PHP Warning:  include(): Failed opening 'defines.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/onfleeki/public_html/obtaining_access_token.php on line 2
+[07-Oct-2021 05:48:57 America/Boise] PHP Warning:  require_once(/home1/onfleeki/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home1/onfleeki/public_html/obtaining_access_token.php on line 5
+[07-Oct-2021 05:48:57 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/onfleeki/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/onfleeki/public_html/obtaining_access_token.php on line 5
+[22-Jul-2022 05:14:05 America/Boise] PHP Fatal error:  Uncaught Error: Class 'dbconn' not found in /home1/onfleeki/public_html/header.php:3
+Stack trace:
+#0 /home1/onfleeki/public_html/index.php(1): require_once()
+#1 {main}
+  thrown in /home1/onfleeki/public_html/header.php on line 3
+[22-Jul-2022 05:14:13 America/Boise] PHP Fatal error:  Uncaught Error: Class 'dbconn' not found in /home1/onfleeki/public_html/header.php:3
+Stack trace:
+#0 /home1/onfleeki/public_html/index.php(1): require_once()
+#1 {main}
+  thrown in /home1/onfleeki/public_html/header.php on line 3
+[22-Jul-2022 05:52:01 America/Boise] PHP Fatal error:  Uncaught Error: Class 'dbconn' not found in /home1/onfleeki/public_html/header.php:3
+Stack trace:
+#0 /home1/onfleeki/public_html/index.php(1): require_once()
+#1 {main}
+  thrown in /home1/onfleeki/public_html/header.php on line 3
+[22-Jul-2022 05:52:12 America/Boise] PHP Fatal error:  Uncaught Error: Class 'dbconn' not found in /home1/onfleeki/public_html/header.php:3
+Stack trace:
+#0 /home1/onfleeki/public_html/index.php(1): require_once()
+#1 {main}
+  thrown in /home1/onfleeki/public_html/header.php on line 3
+[22-Jul-2022 05:52:32 America/Boise] PHP Fatal error:  Uncaught Error: Class 'dbconn' not found in /home1/onfleeki/public_html/header.php:3
+Stack trace:
+#0 /home1/onfleeki/public_html/index.php(1): require_once()
+#1 {main}
+  thrown in /home1/onfleeki/public_html/header.php on line 3
+[22-Jul-2022 05:52:33 America/Boise] PHP Fatal error:  Uncaught Error: Class 'dbconn' not found in /home1/onfleeki/public_html/header.php:3
+Stack trace:
+#0 /home1/onfleeki/public_html/index.php(1): require_once()
+#1 {main}
+  thrown in /home1/onfleeki/public_html/header.php on line 3
