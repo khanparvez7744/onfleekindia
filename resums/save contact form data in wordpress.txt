@@ -1,0 +1,9 @@
+1) Pluging
+2) Add new
+3) Contact Form 7 Database Addon – CFDB7
+4) Install
+5) Activate
+6) Click on Contact Forms in left sidebar
+
+Note- All data are displaying here of contact Form.
+Note- No need for Mysql Table for storing data.
